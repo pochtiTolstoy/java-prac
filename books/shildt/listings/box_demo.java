@@ -4,6 +4,7 @@ class Box {
 	double depth;
 }
 
+
 class box_demo {
 	public static void main(String[] args) {
 		Box b1 = new Box();
