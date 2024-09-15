@@ -2,7 +2,7 @@ public class LinkedList<E> {
   private static class Node<E> {
     private E element;
     private Node<E> next;
-    public Node(E element, Node<E> node) {
+    private Node(E element, Node<E> node) {
       this.element = element;
       this.next = node;
     }
@@ -53,5 +53,6 @@ public class LinkedList<E> {
       System.out.print(walkNode.getElement() + " "); 
       walkNode = walkNode.getNext();
     }
+    System.out.println();
   }
 }
