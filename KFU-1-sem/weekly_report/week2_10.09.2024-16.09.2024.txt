@@ -1,0 +1,6 @@
+Отчёт по второй неделе изучения Java:
+
+Сделал конспект по 3-ей лекции от [CSC](https://www.youtube.com/watch?v=wkHU5akk2po&list=PLlb7e2G7aSpTCB2OxGlezpgOXwq4xer7Z&index=2)
+Сделал связный список с использованием ООП, выложил на github.
+
+Толстых Тимур Александрович 11-401.
