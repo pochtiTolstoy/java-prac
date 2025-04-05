@@ -1030,6 +1030,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="nDVzNxhmzhJFuTcslG1F-302" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1190" y="625" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nDVzNxhmzhJFuTcslG1F-303" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-950" y="625" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
